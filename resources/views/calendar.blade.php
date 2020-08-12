@@ -1,5 +1,5 @@
 <section class="message">
-<div class="container">
+<div class="container ">
 <div class="row">
 @if(session()->has('success'))
     <div class="alert alert-success">
